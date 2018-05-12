@@ -1,0 +1,32 @@
+_repo: The-Progressionists-and-Angela._33573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bolanden, Conrad von
+    aliases:
+    - Von Bolanden, Conrad
+    - Bolanden, Konrad von
+    - Bischoff, Josef Eduard Konrad
+    birthdate: 1828
+    deathdate: 1920
+    gutenberg_agent_id: '36436'
+    url: http://www.gutenberg.org/2009/agents/36436
+    wikipedia: http://en.wikipedia.org/wiki/Conrad_von_Bolanden
+description: ''
+gutenberg_issued: '2010-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33573'
+  lccn: '11010512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Catholics -- Fiction'
+title: The Progressionists, and Angela.
+url: http://www.gutenberg.org/ebooks/33573
